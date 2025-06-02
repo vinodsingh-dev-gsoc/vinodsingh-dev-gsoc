@@ -6,23 +6,23 @@
 
 ---
 
-🛠️ I’m currently working on **Flutter Apps** and **Open Source Projects**.
+🛠️ I’m currently building cool stuff using **Flutter** and contributing to **Open Source**.
 
-🌱 I’m currently sharpening my skills in **Data Structures & Algorithms** and contributing to **Open Source**.
+🌱 Constantly leveling up in **Data Structures & Algorithms**, and prepping hard for **GSoC**! 😎
 
-👯 I’m looking to collaborate on **Flutter**, **DSA-based Projects**, and anything that makes dev-life better!
+🤝 I’m open to collaborating on **Flutter apps**, **DSA-based tools**, or anything innovative and helpful to the community.
 
-💬 Ask me anything [here](mailto:youremail@example.com)! I'm always happy to connect and help 😄
+💬 Wanna connect? [Ping me here!](mailto:youremail@example.com) Always happy to talk code, collab, or caffeine ☕.
 
-😎 Fun Fact: **Code likhta hoon, debug karta hoon... aur kabhi kabhi zindagi bhi.**
+⚡ Fun Fact: **I debug harder than I break things. Mostly.**
 
-⚡ Motto: **Consistency > Motivation**
+📌 Motto: **Code. Contribute. Repeat.**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinodbhai&label=Profile%20views&color=0e75b6&style=flat" alt="vinodbhai" /> • 
-  <img src="https://img.shields.io/github/followers/vinodbhai?label=Followers&style=social" alt="followers" /> • 
-  <img src="https://img.shields.io/github/stars/vinodbhai?style=social" alt="stars" /> • 
-  <a href="https://github.com/sponsors/vinodbhai"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey" alt="Sponsor" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vinodsingh-dev-gsoc&label=Profile%20views&color=0e75b6&style=flat" alt="vinodsingh-dev-gsoc" /> • 
+  <img src="https://img.shields.io/github/followers/vinodsingh-dev-gsoc?label=Followers&style=social" alt="followers" /> • 
+  <img src="https://img.shields.io/github/stars/vinodsingh-dev-gsoc?style=social" alt="stars" /> • 
+  <a href="https://github.com/sponsors/vinodsingh-dev-gsoc"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey" alt="Sponsor" /></a>
 </p>
