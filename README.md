@@ -12,7 +12,7 @@
 
 🤝 I’m open to collaborating on **Flutter apps**, **DSA-based tools**, or anything innovative and helpful to the community.
 
-💬 Wanna connect? [Ping me here!](mailto:youremail@example.com) Always happy to talk code, collab, or caffeine ☕.
+💬 Wanna connect? [Ping me here!](mailto:vinodsingh.dev.2025@example.com) Always happy to talk code, collab, or caffeine ☕.
 
 ⚡ Fun Fact: **I debug harder than I break things. Mostly.**
 
